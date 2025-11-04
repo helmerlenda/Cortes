@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat,80,&H00FFFFFF,&H00777777,&H00151515,&H64000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,320,1
+Style: Title,Montserrat,66,&H00FFFFFF,&H00F0F0F0,&H00101010,&H64000000,-1,0,0,0,100,100,0,0,1,10,4,8,80,80,120,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:19.00,Title,,0,0,0,,{\blur0.7\bord8\shad4\fad(200,200)}FAMILIA ACUSA: HOMICIDIO ACIDENTE? INDEC INVESTIGA
+Dialogue: 0,0:00:00.00,0:00:01.20,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k30}ELE {\k30}NÃO {\k30}PODE {\k30}TER
+Dialogue: 0,0:00:01.20,0:00:02.40,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k30}PERDIDO {\k30}O {\k30}CONTROLE {\k30}DO
+Dialogue: 0,0:00:02.40,0:00:03.00,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k30}VEÍCULO {\k30}SOZINHO.
+Dialogue: 0,0:00:03.00,0:00:04.78,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k44}A {\k44}FAMÍLIA {\k44}ACREDITA {\k44}QUE
+Dialogue: 0,0:00:04.78,0:00:06.56,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k44}UMA {\k44}SEGUNDA {\k44}PESSOA {\k44}ESTEJA
+Dialogue: 0,0:00:06.56,0:00:07.00,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k44}ENVOLVIDA.
+Dialogue: 0,0:00:07.00,0:00:08.85,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k46}ESTIVERAM {\k46}NO {\k46}LOCAL {\k46}A
+Dialogue: 0,0:00:08.85,0:00:10.69,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k46}INDEC {\k46}QUE {\k46}FECHOU {\k46}PARTE
+Dialogue: 0,0:00:10.69,0:00:12.54,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k46}DA {\k46}VIA, {\k46}POLÍCIA {\k46}MILITAR,
+Dialogue: 0,0:00:12.54,0:00:13.00,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k46}PERÍCIA.
+Dialogue: 0,0:00:13.00,0:00:14.60,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k40}O {\k40}CORPO {\k40}FOI {\k40}RETIRADO
+Dialogue: 0,0:00:14.60,0:00:16.20,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k40}PELA {\k40}CETEC {\k40}E {\k40}AS
+Dialogue: 0,0:00:16.20,0:00:17.80,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k40}CAUSAS {\k40}DO {\k40}ACIDENTE {\k40}AINDA
+Dialogue: 0,0:00:17.80,0:00:19.00,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k40}NÃO {\k40}FORAM {\k40}ESCLARECIDAS.

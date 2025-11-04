@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat Bold,80,&H00FFFFFF,&H00777777,&H00151515,&H64000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,320,1
+Style: Title,Montserrat Bold,66,&H00FFFFFF,&H00F0F0F0,&H00101010,&H64000000,-1,0,0,0,100,100,0,0,1,10,4,8,80,80,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:22.00,Title,,0,0,0,,{\blur0.7\bord8\shad4\fad(200,200)}🚨BAR LOLÓ: IDOSO 68 ANOS PRESO POR ILEGALIDADE
+Dialogue: 0,0:00:00.00,0:00:01.97,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k49}UMA {\k49}GRANDE {\k49}QUANTIDADE {\k49}DAQUELA
+Dialogue: 0,0:00:01.97,0:00:03.94,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k49}SUBSTÂNCIA, {\k49}CONHECIDA {\k49}COMO {\k49}LANÇA
+Dialogue: 0,0:00:03.94,0:00:05.91,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k49}PERFUME {\k49}OU {\k49}LOLÓ, {\k49}CONSUMIDA
+Dialogue: 0,0:00:05.91,0:00:07.88,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k49}PELOS {\k49}JOVENS {\k49}NAS {\k49}FESTAS,
+Dialogue: 0,0:00:07.88,0:00:09.85,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k49}TUDO {\k49}DE {\k49}FORMA {\k49}CLANDESTINA
+Dialogue: 0,0:00:09.85,0:00:10.84,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k49}E {\k49}ILEGAL.
+Dialogue: 0,0:00:10.84,0:00:12.33,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k37}RESPONSÁVEL {\k37}POR {\k37}ESSE {\k37}LOCAL,
+Dialogue: 0,0:00:12.33,0:00:13.82,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k37}QUANDO {\k37}QUESTIONADOS {\k37}PELOS {\k37}GUARDAS,
+Dialogue: 0,0:00:13.82,0:00:15.30,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k37}UM {\k37}INDIVÍDUO {\k37}DE {\k37}68
+Dialogue: 0,0:00:15.30,0:00:16.79,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k37}ANOS {\k37}DE {\k37}IDADE {\k37}SE
+Dialogue: 0,0:00:16.79,0:00:18.28,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k37}APRESENTOU {\k37}COMO {\k37}RESPONSÁVEL {\k37}PELO
+Dialogue: 0,0:00:18.28,0:00:19.77,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k37}BAR {\k37}E {\k37}TAMBÉM {\k37}POR
+Dialogue: 0,0:00:19.77,0:00:21.26,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k37}TODAS {\k37}AS {\k37}IRREGULARIDADES {\k37}AQUI
+Dialogue: 0,0:00:21.26,0:00:22.00,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k37}NO {\k37}LOCAL.

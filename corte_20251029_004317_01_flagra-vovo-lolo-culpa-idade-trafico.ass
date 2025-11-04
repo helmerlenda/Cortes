@@ -1,0 +1,33 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat Bold,80,&H00FFFFFF,&H00777777,&H00151515,&H64000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,320,1
+Style: Title,Montserrat Bold,66,&H00FFFFFF,&H00F0F0F0,&H00101010,&H64000000,-1,0,0,0,100,100,0,0,1,10,4,8,80,80,120,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:22.00,Title,,0,0,0,,{\blur0.7\bord8\shad4\fad(200,200)}😱FLAGRA! VOVÔ LOLÓ: CULPA IDADE TRÁFICO
+Dialogue: 0,0:00:00.00,0:00:01.67,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k42}O {\k42}HOMEM {\k42}QUE {\k42}SE
+Dialogue: 0,0:00:01.67,0:00:03.34,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k42}APRESENTOU {\k42}COMO {\k42}RESPONSÁVEL {\k42}TEM
+Dialogue: 0,0:00:03.34,0:00:05.01,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k42}68 {\k42}ANOS {\k42}E {\k42}JÁ
+Dialogue: 0,0:00:05.01,0:00:06.68,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k42}TEM {\k42}PASSAGEM {\k42}POR {\k42}TRÁFICO
+Dialogue: 0,0:00:06.68,0:00:07.52,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k42}DE {\k42}DROGAS.
+Dialogue: 0,0:00:07.52,0:00:09.04,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k38}ELE {\k38}ASSUMIU {\k38}QUE {\k38}TODO
+Dialogue: 0,0:00:09.04,0:00:10.56,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k38}O {\k38}MATERIAL {\k38}ERA {\k38}DELE
+Dialogue: 0,0:00:10.56,0:00:12.08,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k38}E {\k38}PASSOU {\k38}A {\k38}SER
+Dialogue: 0,0:00:12.08,0:00:13.60,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k38}CHAMADO {\k38}ENTRE {\k38}OS {\k38}MORADORES
+Dialogue: 0,0:00:13.60,0:00:15.12,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k38}DA {\k38}REGIÃO {\k38}DE {\k38}VOVÔ
+Dialogue: 0,0:00:15.12,0:00:15.88,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k38}DO {\k38}LOLÓ.
+Dialogue: 0,0:00:15.88,0:00:17.88,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k50}O {\k50}SUSPEITO {\k50}PERMANECEU {\k50}PRESO
+Dialogue: 0,0:00:17.88,0:00:19.88,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k50}À {\k50}DISPOSIÇÃO {\k50}DA {\k50}JUSTIÇA.
+Dialogue: 0,0:00:19.88,0:00:20.30,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k11}DEPOIS {\k11}DE {\k11}ADMITIR {\k11}TUDO,
+Dialogue: 0,0:00:20.30,0:00:20.73,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k11}O {\k11}VOVÔ {\k11}DO {\k11}LOLÓ
+Dialogue: 0,0:00:20.73,0:00:21.15,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k11}AGORA {\k11}ESPERA {\k11}PARA {\k11}SABER
+Dialogue: 0,0:00:21.15,0:00:21.58,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k11}SE {\k11}O {\k11}JOGO {\k11}TERMINOU
+Dialogue: 0,0:00:21.58,0:00:22.00,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k11}DE {\k11}VEZ {\k11}PARA {\k11}ELE.

@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat Bold,80,&H00FFFFFF,&H00777777,&H00151515,&H64000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,320,1
+Style: Title,Montserrat Bold,66,&H00FFFFFF,&H00F0F0F0,&H00101010,&H64000000,-1,0,0,0,100,100,0,0,1,10,4,8,80,80,120,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:22.00,Title,,0,0,0,,{\blur0.7\bord8\shad4\fad(200,200)}🎰FLAGRA! JOGO ILEGAL ABERTO PLENA LUZ DIA
+Dialogue: 0,0:00:00.00,0:00:02.04,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k51}E {\k51}DENTRO {\k51}DESSE {\k51}ESPAÇO,
+Dialogue: 0,0:00:02.04,0:00:04.09,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k51}OS {\k51}GUARDAS {\k51}MUNICIPAIS {\k51}ACABARAM
+Dialogue: 0,0:00:04.09,0:00:06.13,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k51}LOCALIZANDO {\k51}PELO {\k51}MENOS {\k51}16
+Dialogue: 0,0:00:06.13,0:00:08.17,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k51}MÁQUINAS {\k51}CAÇA-NÍQUEIS, {\k51}ALGUMAS {\k51}INCLUSIVE,
+Dialogue: 0,0:00:08.17,0:00:10.22,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k51}EM {\k51}OPERAÇÃO {\k51}E {\k51}OUTRAS
+Dialogue: 0,0:00:10.22,0:00:11.24,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k51}SENDO {\k51}REMONTADAS,
+Dialogue: 0,0:00:11.24,0:00:12.89,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k41}PARA {\k41}DEPOIS {\k41}SEREM {\k41}COLOCADAS
+Dialogue: 0,0:00:12.89,0:00:14.12,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k41}TAMBÉM {\k41}EM {\k41}FUNCIONAMENTO.
+Dialogue: 0,0:00:14.12,0:00:15.38,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k32}AQUI {\k32}NA {\k32}ENTRADA, {\k32}APÓS
+Dialogue: 0,0:00:15.38,0:00:16.64,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k32}O {\k32}LOCAL {\k32}SER {\k32}LACRADO,
+Dialogue: 0,0:00:16.64,0:00:17.91,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k32}APÓS {\k32}AS {\k32}MÁQUINAS {\k32}SEREM
+Dialogue: 0,0:00:17.91,0:00:19.17,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k32}APRENDIDAS, {\k32}A {\k32}GENTE {\k32}ENCONTRA,
+Dialogue: 0,0:00:19.17,0:00:19.80,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k32}OLHA {\k32}SÓ,
+Dialogue: 0,0:00:20.40,0:00:20.98,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k15}PARTE {\k15}DESSES {\k15}EQUIPAMENTOS, {\k15}OLHA
+Dialogue: 0,0:00:20.98,0:00:21.56,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k15}SÓ, {\k15}ONDE {\k15}AS {\k15}CÉDULAS
+Dialogue: 0,0:00:21.56,0:00:22.00,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k15}ERAM {\k15}COLOCADAS {\k15}ANTERIORMENTE,
