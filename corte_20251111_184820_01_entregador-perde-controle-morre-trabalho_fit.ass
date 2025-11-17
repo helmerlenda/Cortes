@@ -1,0 +1,33 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Anton,220,&H00FFFFFF,&H00777777,&H00151515,&H64000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,160,1
+Style: Title,Anton,135,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,80,80,380,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.04,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k26}AINDA {\k26}NÃO {\k26}SE {\k26}SABE
+Dialogue: 0,0:00:01.04,0:00:02.08,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k26}O {\k26}QUE {\k26}LEVOU {\k26}O
+Dialogue: 0,0:00:02.08,0:00:02.86,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k26}ACIDENTE {\k26}A {\k26}ACONTECER,
+Dialogue: 0,0:00:02.86,0:00:04.06,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k30}MAS {\k30}O {\k30}JOVEM {\k30}ESTAVA
+Dialogue: 0,0:00:04.06,0:00:05.26,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k30}TRABALHANDO {\k30}NO {\k30}MOMENTO {\k30}EM
+Dialogue: 0,0:00:05.26,0:00:06.46,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k30}QUE {\k30}ELE {\k30}PERDEU {\k30}O
+Dialogue: 0,0:00:06.46,0:00:07.36,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k30}CONTROLE {\k30}DO {\k30}VEÍCULO.
+Dialogue: 0,0:00:07.36,0:00:09.11,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k44}ELE {\k44}TRABALHAVA {\k44}FAZENDO {\k44}ENTREGA
+Dialogue: 0,0:00:09.11,0:00:10.86,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k44}DE {\k44}COMIDAS {\k44}POR {\k44}APLICATIVO.
+Dialogue: 0,0:00:10.86,0:00:12.19,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k33}AQUI {\k33}AGORA {\k33}AINDA {\k33}ESTÁ
+Dialogue: 0,0:00:12.19,0:00:13.53,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k33}A {\k33}BAG, {\k33}A {\k33}BOLSA
+Dialogue: 0,0:00:13.53,0:00:14.86,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k33}QUE {\k33}ELE {\k33}ESTAVA {\k33}USANDO
+Dialogue: 0,0:00:14.86,0:00:15.86,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k33}FAZENDO {\k33}UMA {\k33}ENTREGA
+Dialogue: 0,0:00:15.86,0:00:17.57,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k43}COM {\k43}UMA {\k43}EMBALAGEM, {\k43}COM
+Dialogue: 0,0:00:17.57,0:00:18.86,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k43}UM {\k43}ALIMENTO {\k43}DENTRO.
+Dialogue: 0,0:00:18.86,0:00:19.83,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k24}DEPOIS {\k24}QUE {\k24}ELE {\k24}PERDEU
+Dialogue: 0,0:00:19.83,0:00:20.79,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k24}O {\k24}CONTROLE, {\k24}ELE {\k24}ACERTOU
+Dialogue: 0,0:00:20.79,0:00:21.76,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k24}EM {\k24}CHEIO {\k24}COM {\k24}O
+Dialogue: 0,0:00:21.76,0:00:22.00,Default,,0,0,0,,{\blur0.8\bord6\shad3\fad(120,80)}{\k24}VEÍCULO.
